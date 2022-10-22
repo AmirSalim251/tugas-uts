@@ -1,0 +1,31 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch _210015_UTSPBO",
+      "request": "launch",
+      "mainClass": "_210015_UTSPBO",
+      "projectName": "Soal1&Soal2_1f6987ec"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Sem3/PBO/Perkuliahan/UTS/Soal1&Soal2",
+      "program": "c:/Sem3/PBO/Perkuliahan/UTS/Soal1&Soal2/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
